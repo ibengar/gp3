@@ -28,10 +28,12 @@ API_KEY=your_api_key
 
 This endpoint returns a completion for a given prompt. The prompt is passed as a parameter in the URL.
 
+
 ```bash
 http://localhost:3000/users/completions/hello%20world%20in%20python
+```
 
-
+```json
 {
   "id": "cmpl-6bNeAYQTnOdaeb7cqg0bkx7Z95czD",
   "object": "text_completion",
