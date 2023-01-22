@@ -1,6 +1,10 @@
 # open-ai-api
 
-Simple wrapper for OpenAI API using Express.js
+Simple API for OpenAI API using Express.js
+
+## What is the point of this?
+At the time of writing, OpenAI has a very limited API. This API is a simple wrapper around the OpenAI API that allows you to make requests to the OpenAI API from the browser. Furthermore the way that OpenAI handles their models are somewhat confusing to someone who doesn't have alot of experience. Therefore this project is a simple way to get started with OpenAI with all the boilerplate and model configuration already done for you. :)
+
 
 ## Installation
 
