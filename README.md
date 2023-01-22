@@ -32,7 +32,7 @@ This endpoint returns a completion for a given prompt. The prompt is passed as a
 ```bash
 http://localhost:3000/users/completions/hello%20world%20in%20python
 ```
-
+returns
 ```json
 {
   "id": "cmpl-6bNeAYQTnOdaeb7cqg0bkx7Z95czD",
@@ -53,7 +53,4 @@ http://localhost:3000/users/completions/hello%20world%20in%20python
     "total_tokens": 13
   }
 }
-
-
-
 ```
