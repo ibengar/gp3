@@ -5,8 +5,14 @@ Simple wrapper for OpenAI API using Express.js
 ## Installation
 
 ```bash
-git clone {url}
+git clone https://github.com/BenSimmers/open-ai-api.git
+```
+
+```bash
 cd open-ai-api
+```
+
+```bash
 npm install
 ```
 
