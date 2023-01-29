@@ -71,7 +71,7 @@ returns
 This endpoint returns a codex completion for a given prompt. The prompt is passed as a parameter in the URL. This model is trained on code examples from GitHub.
 
 ```bash
-http://localhost:3000/users/codex/def%20hello%20world%20%28%29%3A
+http://localhost:3000/users/codex/print%20a%20sorting%20algorithm
 ```
 returns
 ```json
